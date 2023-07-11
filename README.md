@@ -1,5 +1,5 @@
 # Update in Bankist App
-Functionality of logout, sorting ( ascending and descending )
+Functionality of logout, sorting ( ascending and descending ).
 
 # Bankist-app-final
 Bankist is a fictional and minimalistic online banking application.

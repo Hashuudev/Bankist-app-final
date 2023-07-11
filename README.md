@@ -10,4 +10,13 @@ Bankist is a fictional online bank. It is a project introduced by Jonas Schmedtm
 * Transfer a value to another account
 * Get loans
 * Close (delete) account
-* Auto logout 
+* Auto logout
+
+# Log in credentials :
+
+This is the template login details to use the bank functionality. The project does not include any backend and does not have an actual registration funcionality. Make sure to use usernames are lowercase!
+
+| Username | UserId | Password |
+|----------|----------|----------|
+| Jonas Schmedtmann| js| 1111|
+| Jessica Davis| jd| 2222|

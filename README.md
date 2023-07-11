@@ -20,3 +20,14 @@ This is the template login details to use the bank functionality. The project do
 |----------|----------|----------|
 | Jonas Schmedtmann| js| 1111|
 | Jessica Davis| jd| 2222|
+
+# Technologies Used
+* HTML
+* CSS
+* Vanilla JavaScript
+
+# Screenshots
+
+![1](https://github.com/Hashuudev/Bankist-app-final/assets/94761963/3e5c0c23-be3a-4a61-a4e5-d37036a597db)
+
+![2](https://github.com/Hashuudev/Bankist-app-final/assets/94761963/055276f5-253b-4aee-8dcf-14ad94fbad81)

@@ -1,3 +1,6 @@
+# Update in Bankist App
+Functionality of logout, sorting ( ascending and descending )
+
 # Bankist-app-final
 Bankist is a fictional and minimalistic online banking application.
 Everything you need in a modern bank and more. · 100% digital bank · Watch your money grow · Free debit card included.
